@@ -80,7 +80,3 @@ I use [Git](https://github.com/) for versioning.
 ## Author :bust_in_silhouette:
 
 * **[Imran Sayed](https://twitter.com/imranhsayed)**
-
-## License :page_with_curl:
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
