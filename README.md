@@ -76,7 +76,3 @@ npm run dev
 ## Versioning :bookmark_tabs:
 
 I use [Git](https://github.com/) for versioning.
-
-## Author :bust_in_silhouette:
-
-* **[Imran Sayed](https://twitter.com/imranhsayed)**
